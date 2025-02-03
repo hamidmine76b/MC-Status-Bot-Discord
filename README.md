@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://frankdev.ir/images/MC-Status-Discord-Bot.png" alt="Logo" width="80" height="80">
+    <img src="https://frankdev.ir/images/MC-Status-Discord-Bot.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">MC Status Discord Bot Py</h3>
@@ -29,7 +29,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 - English -
 Discord bot Python code to detect whether the server is online or offline and to detect the number of players and the specific size of Minecraft server players
@@ -173,7 +172,7 @@ The creators of this bot
 ### Hamidmine
 
 <a href="https://coderhamid.ir">
-  <img src="https://frankdev.ir/images/hamidmine.jpg" alt="hamidmine.image" />
+  <img src="https://frankdev.ir/images/hamidmine.png" alt="hamidmine image" />
 </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
