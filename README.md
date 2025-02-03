@@ -7,7 +7,7 @@
     <img src="https://frankdev.ir/images/MC-Status-Discord-Bot.png" alt="Logo" width="100" height="100">
   </a>
 
-  <h3 align="center">MC Status Discord Bot Python</h3>
+  <h3 align="center">MC Status Discord Python Bot</h3>
 
   <p align="center">
     Source code of the bot to check the number of Minecraft server players in the bot profile
