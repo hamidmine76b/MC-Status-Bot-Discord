@@ -172,7 +172,7 @@ The creators of this bot
 ### Hamidmine
 
 <a href="https://coderhamid.ir">
-  <img src="https://frankdev.ir/images/hamidmine.png" alt="hamidmine image" width="10" height="10" />
+  <img src="https://frankdev.ir/images/hamidmine.png" alt="hamidmine image" width="50" height="50" />
 </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
