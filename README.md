@@ -182,7 +182,7 @@ The creators of this bot
 
 Hamidmine - [coderhamid.ir](https://coderhamid.ir/) - info@coderhamid.ir
 
-Project Link: [github.com/hamidmine76b/MC-Status-Bot-Discord-](https://github.com/hamidmine76b/MC-Status-Bot-Discord-)
+Project Link: [github.com/hamidmine76b/MC-Status-Bot-Discord](https://github.com/hamidmine76b/MC-Status-Bot-Discord)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
