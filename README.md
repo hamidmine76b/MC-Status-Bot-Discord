@@ -177,10 +177,6 @@ The creators of this bot
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- CONTACT -->
 ## Contact
 
