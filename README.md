@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/hamidmine76b/MC-Status-Discord-Bot">
     <img src="https://frankdev.ir/images/MC-Status-Discord-Bot.png" alt="Logo" width="100" height="100">
   </a>
 
