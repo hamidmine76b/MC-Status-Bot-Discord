@@ -15,7 +15,7 @@
   <p align="center">
     سورس کد بات چک کردن تعداد پلیر های سرور ماینکرفتی در پروفایل بات
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://coderhamid.ir"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://coderhamid.ir/">Creator Site</a>
