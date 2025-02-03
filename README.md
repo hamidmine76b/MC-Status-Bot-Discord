@@ -180,7 +180,7 @@ The creators of this bot
 <!-- CONTACT -->
 ## Contact
 
-Hamidmine - [coderhamid.ir](https://coderhamid.ir/) - email@example.com
+Hamidmine - [coderhamid.ir](https://coderhamid.ir/) - info@coderhamid.ir
 
 Project Link: [github.com/hamidmine76b/MC-Status-Bot-Discord-](https://github.com/hamidmine76b/MC-Status-Bot-Discord-)
 
